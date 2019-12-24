@@ -12,7 +12,7 @@ namespace App99
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new Page2());
+            MainPage = new NavigationPage(new Page1());
         }
 
         protected override void OnStart()
